@@ -310,7 +310,7 @@ header .icons #menu-bars{
     color:var(--green);
 }
 
-.dishes .box-container .box span{
+.dishes .box-container .box .product-price{
     color:var(--green);
     font-weight: bolder;
     margin-right: 1rem;
@@ -457,7 +457,7 @@ header .icons #menu-bars{
     line-height: 1.5;
 }
 
-.menu .box-container .box .content .price{
+.menu .box-container .box .content .product-price{
     color:var( rgb(3, 3, 41));
     margin-left: 1rem;
     font-size: 2.5rem;
